@@ -1,1 +1,22 @@
+{
+  "name": "DAAT Network",
+  "symbol": "DAAT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "DAAT Network is a decentralized asset and automation token built for the next generation of smart finance.",
+  "website": "https://daatnetwork.com",
+  "explorer": "https://bscscan.com/token/0x8cDe22E09986c02098c031C8d09BAc49B38c8910",
+  "status": "active",
+  "id": "0x8cDe22E09986c02098c031C8d09BAc49B38c8910",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/yourusername/daat-token-assets"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/Daat713225"
+    },
 
+  ]
+}
